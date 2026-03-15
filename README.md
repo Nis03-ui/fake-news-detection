@@ -1,4 +1,4 @@
-Dataset from kaggle=https://www.kaggle.com/datasets/abaghyangor/fake-news-dataset
+
 # Fake News Detection using NLP and Machine Learning
 
 ## 📌 Project Overview
@@ -21,6 +21,7 @@ The system processes raw news text, performs text preprocessing, converts text i
 ---
 
 ## 📊 Dataset
+Dataset from kaggle=https://www.kaggle.com/datasets/abaghyangor/fake-news-dataset
 
 The dataset contains two CSV files:
 
